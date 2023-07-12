@@ -38,12 +38,12 @@ public class ListNode {
         listNode.next.next.next = new ListNode(4);
         listNode.next.next.next.next = new ListNode(5);
 
-        System.out.println("Исходный список:");
+        System.out.println("Source list:");
         printLinkedList(listNode);
 
         ListNode reversedHead = reverseLinkedList(listNode);
 
-        System.out.println("Развёрнутый список:");
+        System.out.println("Reversed list:");
         printLinkedList(reversedHead);
 
     }

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dea0699-0522-42e2-9ab3-66229a879eba" name="Changes" comment="ListNode class has added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoublyListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListNode.java" afterDir="false" />
+    <list default="true" id="0dea0699-0522-42e2-9ab3-66229a879eba" name="Changes" comment="DoublyListNode class has added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2SF7LtJEYDcOig5iBBdb2j1i3WH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +40,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoublyListNode">
+  <component name="RunManager" selected="Application.BinTree">
+    <configuration name="BinTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinTree" />
+      <module name="AlgorithmsJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoublyListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoublyListNode" />
       <module name="AlgorithmsJava" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinTree" />
         <item itemvalue="Application.DoublyListNode" />
         <item itemvalue="Application.ListNode" />
         <item itemvalue="Application.HeapSorter" />
@@ -103,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689168151154</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DoublyListNode class has added">
+      <option name="closed" value="true" />
+      <created>1689168542745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689168542745</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +137,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="HeapSorter class has added" />
     <MESSAGE value="ListNode class has added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListNode class has added" />
+    <MESSAGE value="DoublyListNode class has added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DoublyListNode class has added" />
   </component>
 </project>
